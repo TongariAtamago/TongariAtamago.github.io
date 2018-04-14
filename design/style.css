@@ -1,8 +1,8 @@
-#side1 #main {
+#side1, #main {
     display: block;
     float: left;
 }
 
-footer {
+footer p{
     background-color: black;
 }
