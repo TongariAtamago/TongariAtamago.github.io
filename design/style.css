@@ -1,1 +1,4 @@
-
+#side1 #main {
+    display: block;
+    float: left;
+}
