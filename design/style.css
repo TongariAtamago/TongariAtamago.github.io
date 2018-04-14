@@ -21,6 +21,10 @@ footer {
     margin: auto;
 }
 
+.article {
+    margin: 50px;
+}
+
 .wrapper {
     margin: auto;
     text-align: center;
