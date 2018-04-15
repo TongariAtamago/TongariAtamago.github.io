@@ -1,7 +1,7 @@
 body {
     margin 0;
     padding 0;
-    font-family: YuGothic,'Yu Gothic','メイリオ', Meiryo,'Meiryo UI','ヒラギノ角ゴシック','Hiragino Sans','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','Osaka','ＭＳ ゴシック',sans-serif;
+    font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 .header {
@@ -31,7 +31,8 @@ footer {
 }
 
 .wrapper {
-    margin: auto;
+    width: 100%;
+    margin: 0 auto;
     text-align: center;
     max-width: 2160px;
 }
