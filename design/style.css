@@ -38,11 +38,15 @@ footer {
     max-width: 2160px;
 }
 
+.text-p {
+    margin: 1.4em;
+}
+
 @media screen and (max-width:639px){
 
-.side, .main {
+/* .side, .main {
     border-bottom: 1px dotted gray;    
-}
+} */
 
 }
 
